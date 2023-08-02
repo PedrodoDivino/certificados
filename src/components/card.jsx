@@ -15,7 +15,6 @@ export default function Card() {
   useEffect(() => {
     const result = certificates;
     setItems(result);
-    console.log("aqui", result)
   }, []);
 
 
