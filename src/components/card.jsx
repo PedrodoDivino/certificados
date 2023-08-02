@@ -13,8 +13,7 @@ export default function Card() {
   const currentItems = items.slice(startIndex, endIndex);
 
   useEffect(() => {
-    const result = certificates;
-    setItems(result);
+   setItems(certificates)
   }, []);
   return (
     <div className="bg-white">
