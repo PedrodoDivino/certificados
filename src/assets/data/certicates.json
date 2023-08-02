@@ -3,56 +3,56 @@
         "id": 1,
         "name": "VUE3 EXPLORANDO O FRAMEWORK",
         "href": "https://cursos.alura.com.br/certificate/3f68c4d5-dfc5-4c93-b185-fa1f85e04a45",
-        "imageSrc": "../../src/Images/vue3.p",
+        "imageSrc": "src/assets/data/Images/vue3.png",
         "imageAlt": "Certificado de vue 3"
     },
     {
         "id": 2,
         "name": "JAVASCRIPT: PROGRAMANDO A ORIENTAÇÃO A OBJETOS",
         "href": "https://cursos.alura.com.br/certificate/384e4ea0-7d46-4eb1-93a5-c17e6496902b",
-        "imageSrc": "../../src/Images/poo.png",
+        "imageSrc": "src/Images/poo.png",
         "imageAlt": "Orientação a objetos"
     },
     {
         "id": 3,
         "name": "FLUTTER: CRIANDO UM APP",
         "href": "https://cursos.alura.com.br/certificate/1940470f-95bd-45ca-8f88-9ea6d407f35f",
-        "imageSrc": "../../src/Images/criandoUmApp.png",
+        "imageSrc": "src/Images/criandoUmApp.png",
         "imageAlt": "Flutter Criando um app"
     },
     {
         "id": 4,
         "name": "SCRUM: AGILIDADE EM SEU PROJETO",
         "href": "https://cursos.alura.com.br/certificate/f93f76d5-3675-4642-ab75-77eb5d8d87c3",
-        "imageSrc": "../../src/Images/scrum.png",
+        "imageSrc": "src/Images/scrum.png",
         "imageAlt": "Scrum"
     },
     {
         "id": 5,
         "name": "PERSISTÊNCIA COM FLUTTER: CRIE UM APP COM ARMAZENAMENTO INTERNO",
         "href": "https://cursos.alura.com.br/certificate/ad0e0be5-4d69-420e-b5f9-df63bc22785e",
-        "imageSrc": "../../src/Images/persistencia.png",
+        "imageSrc": "src/Images/persistencia.png",
         "imageAlt": "persistência de dados"
     },
     {
         "id": 6,
         "name": "FLUTTER: WIDGETS, STATELESS, STATEFUL, IMAGENS E ANIMAÇÕES",
         "href": "https://cursos.alura.com.br/certificate/d69e4e1d-d61b-48e4-ae86-0aa49f28e306",
-        "imageSrc": "../../src/Images/fluuterWidgtes.png",
+        "imageSrc": "src/Images/fluuterWidgtes.png",
         "imageAlt": "Widgets com flutter/Stateless/StateFull etc"
     },
     {
         "id": 7,
         "name": "VUE.JS PARTE 1: CONSTRUINDO SINGLE PAGE APPLICATIONS",
         "href": "https://cursos.alura.com.br/certificate/d650d0ae-af86-42eb-90c9-1bb6cbebf488",
-        "imageSrc": "../../src/Images/vueSpa.png",
+        "imageSrc": "src/Images/vueSpa.png",
         "imageAlt": "Single page Application com vue"
     },
     {
         "id": 8,
         "name": "FLUTTER COM WEB API: INTEGRANDO SUA APP MOBILE",
         "href": "https://cursos.alura.com.br/certificate/7ed405e3-939a-4738-96b6-b5565d7e7db0",
-        "imageSrc": "../../src/Images/flutterWebApi.png",
+        "imageSrc": "src/Images/flutterWebApi.png",
         "imageAlt": "Integrando flutter com web api"
     },
     {
