@@ -1,5 +1,5 @@
 import{ useState, useEffect } from "react";
-import certificates from "../data/certificates.json"
+import { certificates } from "../data/certificates"
 import Pagination from "./pagination";
 
 export default function Card() {
