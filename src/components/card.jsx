@@ -1,5 +1,5 @@
 import{ useState, useEffect } from "react";
-import certificates from "../data/certicates.json";
+import certificates from "../data/certicates.json"
 import Pagination from "./pagination";
 
 export default function Card() {
@@ -15,6 +15,7 @@ export default function Card() {
   useEffect(() => {
     const result = certificates;
     setItems(result);
+    console.log("aqui", result)
   }, []);
 
 
