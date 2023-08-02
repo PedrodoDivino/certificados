@@ -1,5 +1,5 @@
 import{ useState, useEffect } from "react";
-import certificates from "../data/certicates.json"
+import certificates from "../assets/data/certificates.json"
 import Pagination from "./pagination";
 
 export default function Card() {
@@ -16,8 +16,6 @@ export default function Card() {
     const result = certificates;
     setItems(result);
   }, []);
-
-
   return (
     <div className="bg-white">
       <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
